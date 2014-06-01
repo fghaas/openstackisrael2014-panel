@@ -25,11 +25,6 @@ for the Foundation to not act as an independent
 for OpenStack knowledge?
 
 
-Where is the greatest potential for
-# disruptive business
-built on OpenStack?
-
-
 What is the
 # greatest benefit
 that
@@ -42,3 +37,8 @@ What is the
 that
 # public cloud providers
 add to the OpenStack community?
+
+
+Where is the greatest potential for
+# disruptive business
+built on OpenStack?
