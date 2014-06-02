@@ -38,4 +38,7 @@ Mr. Infrastructure at OpenStack who works for HP
 Ravello Systems
 
 Note: Co-founder, chairman and president at Ravello systems and the
-only Israeli on our panel
+only Israeli on our panel -- as such, he certainly needs no
+introduction to the following concept, which, however, I'll briefly
+explain for our other speakers. (This is arguably one of the most
+important concepts I've been confronted with in this country.)

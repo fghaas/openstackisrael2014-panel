@@ -1,5 +1,14 @@
 # תַּכְלֵס
 
+Note: It's a bit difficult to translate *tachles* in a way that fully
+grasps the concept, but when applied to conversation *straight talk*
+or *hard talk* is probably a good-enough approximation. Let me put it
+this way: in this country, it's considered rude to beat around the
+bush. So please take this as an invitation to speak your mind freely,
+it will be much appreciated.
+So with this we go to our first question:
+
+
 
 Is there, or has there ever been, a policy in effect at your company
 to
