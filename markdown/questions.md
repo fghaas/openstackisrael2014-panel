@@ -27,6 +27,12 @@ compare with
 # user base market share?
 
 
+Should Ubuntu have gone
+# all cloud
+instead of
+# cloud and mobile?
+
+
 Is it a
 # missed opportunity
 for the Foundation to not act as an independent
